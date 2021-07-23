@@ -1,0 +1,18 @@
+{
+  "name": "dynv6-ddns",
+  "version": "1.0.0",
+  "description": "Uses the Dynv6 API to automatically updates the ddns entrys of your domain.",
+  "main": "app.js",
+  "scripts": {
+    "start": "node ."
+  },
+  "author": {
+    "email": "malte.linke.ml@gmail.com",
+    "name": "Malte Linke",
+    "url": "https://malte-linke.com"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.1"
+  }
+}
