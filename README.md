@@ -16,9 +16,10 @@ It is recommended to use <a href="https://www.npmjs.com/package/forever-service"
 # Install forever-service
 npm i -g forever-service
 
-# Pull this repository
+# Pull this repository and install dependencies
 git clone https://github.com/malte-linke/dynv6-ddns.git
 cd ./dynv6-ddns
+npm i
 
 # Install this node application
 forever-service install dynv6-ddns -s app.js
