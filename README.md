@@ -10,7 +10,7 @@ If it detects that the IP has changed, the domain gets updated.</br>
 
 ## Installation
 
-It is recommended to use <a href="https://www.npmjs.com/package/forever-service">forever-service</a> for installation as a system service.
+It is recommended to use <a href="https://www.npmjs.com/package/forever-service">forever-service</a> to install dynv6-ddns as a system service.
 
 ```bash
 # Install forever-service
