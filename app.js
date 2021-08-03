@@ -8,6 +8,8 @@ const config = require('./config.json');
 var lastIPv4 = "";
 var lastIPv6 = "";
 
+// show banner
+require('./lib/banner');
 
 // checks if the IP address has changed and updates the DNS record if required
 async function updateIP() {

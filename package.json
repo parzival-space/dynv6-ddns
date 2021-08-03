@@ -1,6 +1,6 @@
 {
   "name": "dynv6-ddns",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Uses the Dynv6 API to automatically updates the ddns entrys of your domain.",
   "main": "app.js",
   "scripts": {
